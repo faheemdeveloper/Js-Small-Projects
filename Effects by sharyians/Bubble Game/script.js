@@ -20,7 +20,7 @@ pbtm.addEventListener("click", (detail) => {
     if (hitrn === value) {
         increaseScore();
         getNewHit();
-        makeBubble()
+        makeBubble();
     }
 })
 
